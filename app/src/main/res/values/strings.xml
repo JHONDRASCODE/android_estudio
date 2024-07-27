@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyApp1</string>
+    <string name="btn1">Crear Cuenta</string>
+    <string name="bt2">Boton2</string>
+
+    //pantalla Login 
+    
+    <string name="login">INICIAR SESION</string>
+    <string name="btn_email">Ingresar CORREO</string>
+    <string name="btn_pass">Ingresar </string>
+
+</resources>
+
+
